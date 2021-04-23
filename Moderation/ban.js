@@ -88,10 +88,10 @@ module.exports.run = async(client, message, args) => {
        message.channel.send(kicked);
    }).catch((e) => {
     console.log(e)
-    const failed = new MessageEmbed()
+    const Kfailed = new MessageEmbed()
     .setColor(client.color)
     .setDescription(`Failed to ban ${mm.user.username}_`)
 
-       message.channel.send(failed);
+       message.channel.send(Kfailed);
    })
 }
