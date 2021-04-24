@@ -1,3 +1,6 @@
+//these commands are from my bot which uses Database and other stuff so edit it by urself
+
+
 const fs = require('fs')
 const { Client, Message, MessageEmbed } = require("discord.js");
 
