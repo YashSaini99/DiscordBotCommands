@@ -1,4 +1,5 @@
-  
+ //Clean bots messages
+
 const { Client, Message } = require("discord.js")
 
 module.exports.config = {
