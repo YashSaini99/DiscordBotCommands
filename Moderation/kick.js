@@ -1,3 +1,5 @@
+//Need some fixing 
+
 const { Message, Client, MessageEmbed } = require("discord.js");
 const fs = require('fs');
 
