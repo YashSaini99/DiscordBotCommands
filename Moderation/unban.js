@@ -1,4 +1,4 @@
-// Fixing
+// Fixing The database problem
 
 const { MessageEmbed } = require("discord.js");
 
