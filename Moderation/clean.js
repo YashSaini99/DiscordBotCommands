@@ -1,4 +1,5 @@
  //Clean bots messages
+//Deletes bots recent messages
 
 const { Client, Message } = require("discord.js")
 
