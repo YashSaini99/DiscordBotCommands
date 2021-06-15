@@ -13,12 +13,7 @@ module.exports.config = {
     example: '?clean 5'
 }
 
-/**
- * 
- * @param {Client} client 
- * @param {Message} message 
- * @param {*} args 
- */
+
 
 module.exports.run = async(client, message, args) => {
     let amount = args[0];
