@@ -1,5 +1,5 @@
 // Fixing The database problem
-
+//
 const { MessageEmbed } = require("discord.js");
 
 module.exports.config = {
